@@ -113,7 +113,7 @@ pip install Flask PyPDF2
 
 ## 👨‍💻 Author
 
-**CoderMundaAK** – [@yourgithub](https://github.com/CoderMundaAk/PDF_Metadata_Extractor/upload/main)
+**CoderMundaAK** – [(https://github.com/CoderMundaAk)](https://github.com/CoderMundaAk/PDF_Metadata_Extractor/upload/main)
 
 ---
 
